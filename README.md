@@ -8,6 +8,7 @@ This project implements a comprehensive ETL (Extract, Transform, Load) pipeline 
 - **Product Data**: Amazon product dataset (JSON)
 - **Order Data**: UK Online Retail dataset (SQLite)
 - **Web Traffic**: Synthetic web server logs (CSV)
+- > 📁 Note: All datasets are fictional and sanitized — no real customer or business data is included.
 
 ## Features
 - Extract data from multiple sources with different formats
